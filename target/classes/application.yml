@@ -1,0 +1,17 @@
+resilience4j:
+  circuitbreaker:
+    instances:
+      bookingCircuitBreaker:
+        registerHealthIndicator: true
+        automaticTransitionFromOpenToHalfOpenEnabled: true
+        failureRateThreshold: 50
+        minimumNumberOfCalls: 5
+        permittedNumberOfCallsInHalfOpenState: 3
+        slidingWindowSize: 10
+        waitDurationInOpenState: 10
+        slidingWindowType: COUNT_BASED
+
+server:
+  port: 1000
+
+

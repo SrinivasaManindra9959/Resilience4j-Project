@@ -1,0 +1,17 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ó¸ªœ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÊ€È
+M	java:S106"9Replace this use of System.out or System.err by a logger.(£¥ì
+
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ö­¶¾8ØÈÍþØ/
+O
+java:S3400%"9Remove this method and declare a constant for this value.(À±“¿
+P
+java:S1172$":Remove these unused method parameters "availability", "t".(â„àÓ
+n
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8êâ©ÿØ/
+a
+java:S2259"FA "NullPointerException" could be thrown; "getBody()" can return null.(¨ï‹®üÿÿÿÿ

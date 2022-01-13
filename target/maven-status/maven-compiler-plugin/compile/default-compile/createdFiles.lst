@@ -1,0 +1,4 @@
+com\resilience4j\poc\controller\BookingController.class
+com\resilience4j\poc\main\config\Config.class
+com\resilience4j\poc\main\ResilienceMainApplication.class
+com\resilience4j\poc\model\Availability.class
